@@ -67,3 +67,18 @@ PS4) Compare, for the same ML algorithm used, the speed and accuracy of Spark vs
 PS3) Explain your observed result
 
 PS4) Compare, for the same ML algorithm used, the speed and accuracy of Spark vs. Scitkit-learn.  Comment on why one is performing better than the rest.
+
+Your report should contain at least the following:
+R1. A table of content with hyperlinkable page to each relevant section (Hint: Use Word->Reference->Table of content and make each chapter/section description as Heading 1 or 2 under Styles first)
+
+R2. Describe in your report the major difference between using Spark and that of Scikit-learn. Elaborate on the performance comparison in terms of the speed and the prediction accuracy between Scikit-learn and Spark in this project.
+
+R3. List your team members and team name on the first page of both your report
+
+R4. Provide all online links on example code you used/extended in the report.
+
+R.5 Show a clear list on who collaborated with who to accomplish any bonus feature, if any.
+
+R6. Add comments on each major step inside your scripts. Show references to any algorithm or reused code.
+
+R7. Your report should contain at least the following in the order shown.

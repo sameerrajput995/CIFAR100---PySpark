@@ -9,3 +9,5 @@ Milestone 1 - The goal is to perform a binary classification of images in vehicl
 
 Milestone 2 - Classify images not seen by the model during training. 
 Prediction on one testing subclass images from each of the two superclasses. Select one sub-class from each of your two assigned super-classes. Use these two selected sub-classes as your testing data. Use all the data minus the two selected test sub-classes as your training data. Repeat for all 5 x 5 =25 pairs of subclass images. Your algorithm should be initialized before it is being trained on new training dataset in each of these 25 trials. All results should be based on the SAME algorithm you designed.
+
+Final Milestone - Added Naive Bayes and comapared results of Pyspark and SkLearn for each Algorithm.
